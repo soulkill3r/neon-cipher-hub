@@ -7,7 +7,6 @@ tags:
   - tech
   - homelab
 language: 'English'
-heroImage: { src: './thumbnail.jpg', color: '#D58388' }
 ---
 
 # What is going on? 🏠→🏠
