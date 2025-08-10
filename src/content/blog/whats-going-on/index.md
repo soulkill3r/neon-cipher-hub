@@ -1,5 +1,5 @@
 ---
-title: "What's is going on ?"
+title: 'Whats going on ?'
 publishDate: 2025-08-10
 updatedDate: 2025-08-10
 description: 'I had no choice'
